@@ -1,0 +1,20 @@
+{
+  "name": "ginny",
+  "version": "1.0.0",
+  "description": "Ginny Bot for Barfleet's Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ceiling Hawke",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord.js": "^11.5.1",
+    "libsodium-wrappers": "^0.7.4",
+    "mysql2": "^1.6.5",
+    "mysql2-promise": "^0.1.4",
+    "node-opus": "^0.3.2"
+  }
+}
